@@ -14,6 +14,16 @@
       "id": 3,
       "content": "Chakra UIをインストールする",
       "done": false
+    },
+    {
+      "content": "todo-appを作成する",
+      "id": "01HBNJJAS6X9QSTMCCS0ZXG22C",
+      "done": false
+    },
+    {
+      "content": "todo-appにテスト投稿してみる",
+      "id": "01HBNJKAE7DJHW7NVSTY8RV3GP",
+      "done": false
     }
   ]
 }
